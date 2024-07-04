@@ -6,7 +6,7 @@ import open from "./assets/images/icon-plus.svg";
 import close from "./assets/images/icon-minus.svg";
 import avatar from "./assets/images/icon-star.svg";
 function App() {
-  const [active, setActive] = useState(1);
+  const [active, setActive] = useState(0);
 
   const data = [
     {
