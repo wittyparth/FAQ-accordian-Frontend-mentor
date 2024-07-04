@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FAQ-accordian-Frontend-mentor/static/css/main.8049621b.css",
+    "main.js": "/FAQ-accordian-Frontend-mentor/static/js/main.11017fe2.js",
+    "static/media/WorkSans-VariableFont_wght.ttf": "/FAQ-accordian-Frontend-mentor/static/media/WorkSans-VariableFont_wght.a0297787a1a192213b53.ttf",
+    "static/media/background-pattern-desktop.svg": "/FAQ-accordian-Frontend-mentor/static/media/background-pattern-desktop.621478cf83f8150af60411d3765de0eb.svg",
+    "index.html": "/FAQ-accordian-Frontend-mentor/index.html",
+    "static/media/icon-star.svg": "/FAQ-accordian-Frontend-mentor/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/FAQ-accordian-Frontend-mentor/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/FAQ-accordian-Frontend-mentor/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.8049621b.css.map": "/FAQ-accordian-Frontend-mentor/static/css/main.8049621b.css.map",
+    "main.11017fe2.js.map": "/FAQ-accordian-Frontend-mentor/static/js/main.11017fe2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8049621b.css",
+    "static/js/main.11017fe2.js"
+  ]
+}
