@@ -41,7 +41,7 @@ function App() {
         alt="Pattern in purple"
         className="h-[250px] object-cover w-[100vw] absolute z-0 top-0"
       />
-      <div className="w-[400px] md:max-w-[60vw] md:w-auto z-10 rounded-lg flex flex-col p-3 text-Dark_purple bg-white">
+      <div className="w-[400px] md:max-w-[600px] md:w-auto z-10 rounded-lg flex flex-col p-3 text-Dark_purple bg-white">
         <div className="flex items-center my-4">
           <img src={avatar} alt="" className="w-[1.6em] mr-6 md:w-[2em]" />
           <h1 className="text-3xl text-Dark_purple font-bold md:text-4xl">
