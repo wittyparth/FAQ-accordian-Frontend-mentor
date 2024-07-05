@@ -10,3 +10,6 @@
     src: url("./assets/fonts/WorkSans-VariableFont_wght.ttf");
   }
 }
+.content {
+  max-width : 600px;
+}
